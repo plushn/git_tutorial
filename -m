@@ -1,0 +1,15 @@
+git statusコマンドを追記
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: 中島佑介 <plusn@plusnMacBookPro.local>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   index.html
+#	new file:   test1.txt
+#	new file:   test2.txt
+#
